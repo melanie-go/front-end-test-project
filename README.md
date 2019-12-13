@@ -19,11 +19,11 @@ Convertir les maquettes suivantes en HTML/CSS/JS.
 6. Créer un système de Tabs pour les adresses des bureaux (Paris/London).
 7. *Tâche bonus optionnelle 1:* Utiliser SCSS plutôt que CSS
 8. *Tâche bonus optionnelle 2:* Utiliser le Framework Bootstrap 3 ou 4.
-9. *Tâche bonus optionnelle 3:* Mettre en place une structure Hn (H1, H2...)
+9. *Tâche bonus optionnelle 3:* Mettre en place une structure Hn SEO compliant (H1, H2...)
 
 ## Design
 - Télécharger l'application Sketch (Version d'évaluation 30 jours - https://www.sketchapp.com/) pour pouvoir ouvrir le fichier source (OnePageFrontEndTest_0.1.sketch) 
-- Accès via l'application Zeplin : https://zpl.io/V1qWrB5
+- Accès via l'application Zeplin : https://scene.zeplin.io/project/5b61689ffb02b5a66fbcb1b3
 
 ## Supported browsers
 S'assurer que les éléments fonctionnent et s'affichent correctement dans les navigateurs suivants: 
@@ -37,11 +37,11 @@ S'assurer que les éléments fonctionnent et s'affichent correctement dans les n
 Le code doit être propre et lisible. 
 
 ## Project Deadline
-Le projet doit être rendu pour le **03/08/2018 à 17h**.
+Le projet doit être rendu pour le **19/12/2019**.
 
 ### Méthodes de livraison :
 - Si vous possédez un compte GitHub, déposez votre projet directement sur ce dépôt dans la branche *candidates* - *Nomenclature : NomPrenom_date*
-- Si vous ne possédez pas de compte GitHub, envoyez votre projet par mail (même nomenclature) à baptiste@lets-clic.com - Copie : melanie@lets-clic.com
+- Si vous ne possédez pas de compte GitHub, envoyez votre projet par mail (même nomenclature) à melanie.go@hagergroup.com
 
 
 ## Quality Assurance
