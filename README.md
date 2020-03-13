@@ -37,7 +37,7 @@ S'assurer que les éléments fonctionnent et s'affichent correctement dans les n
 Le code doit être propre et lisible. 
 
 ### Méthodes de livraison :
-- Si vous possédez un compte GitHub, vous pouvez déposer le projet sur votre dépôt et m'envoyer le lien par mail à melanie.go@hagergroup.com
+- Si vous possédez un compte GitHub, vous pouvez déposer le projet sur votre dépôt et envoyer le lien par mail à melanie.go@hagergroup.com
 - Si vous ne possédez pas de compte GitHub, envoyez directement votre projet par mail (*Nomenclature : NomPrenom_date*) à melanie.go@hagergroup.com
 
 
