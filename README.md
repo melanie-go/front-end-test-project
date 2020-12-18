@@ -2,7 +2,7 @@ Front-end Test Project
 ======================
 
 ## Project brief
-Convertir les maquettes suivantes en HTML/CSS/JS.
+Convertir les maquettes suivantes en HTML/CSS/JS en utilisant Vue.js (Version 2)
 
 ### One Page 
 ![OnePage_FrontEndTest_0.1](OnePage_FrontEndTest_0.1.png)
