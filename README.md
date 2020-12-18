@@ -2,7 +2,7 @@ Front-end Test Project
 ======================
 
 ## Project brief
-Convertir les maquettes suivantes en HTML/CSS/JS en utilisant Vue.js (Version 2)
+Single Web page - Convertir les maquettes suivantes en HTML/CSS/JS en utilisant Vue.js (Version 2)
 
 ### One Page 
 ![OnePage_FrontEndTest_0.1](OnePage_FrontEndTest_0.1.png)
@@ -11,14 +11,14 @@ Convertir les maquettes suivantes en HTML/CSS/JS en utilisant Vue.js (Version 2)
 ![OnePage_FrontEndTest-modal-work_0.1](OnePage_FrontEndTest-modal-work_0.1.png)
 
 ## Requirements
-1. Utiliser HTML5 / CSS ou SCSS (bonus) / jQuery
+1. Utiliser Vue.js / Sass / ES6
 2. Faire en sorte que l'intégration soit Responsive.
-3. Créer un slider en cover.
-4. Créer une modal au clic sur les blocs "Works".
-5. Créer tous les effets hover.
-6. Créer un système de Tabs pour les adresses des bureaux (Paris/London).
-7. *Tâche bonus optionnelle 1:* Utiliser SCSS plutôt que CSS
-8. *Tâche bonus optionnelle 2:* Utiliser le Framework Bootstrap 3 ou 4.
+3. Faire un sorte que la navigation fonctionne 
+4. Créer un slider en cover.
+5. Créer une modal au clic sur les blocs "Works".
+6. Créer tous les effets hover.
+7. Créer un système de Tabs pour les adresses des bureaux (Paris/London).
+8. *Tâche bonus optionnelle 2:* Utiliser la librairie Bootstrap 3 ou 4 ou CSS Grid.
 9. *Tâche bonus optionnelle 3:* Mettre en place une structure Hn SEO compliant (H1, H2...)
 
 ## Design
